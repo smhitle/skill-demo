@@ -4,6 +4,6 @@ import org.junit.*;
 public class DemoTester {
     @Test
     public void converterTest() {
-        assertEquals(1, Demo.converter(6));
+        assertEquals(1, Demo.converter(12));
     }
 }
